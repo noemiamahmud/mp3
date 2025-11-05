@@ -175,4 +175,4 @@ As part of this class, we *do* encourage students to experiment with LLM service
 
 
 
-LLM LOG: 
+LLM LOG: https://chatgpt.com/share/690a9428-16a8-8013-abb0-feb58c234947 
